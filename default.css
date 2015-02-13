@@ -1,0 +1,54 @@
+.backdrop{
+	background-color:honeydew;
+	height:100%;
+	width:100%;
+	text-align: center;
+}
+
+.name{
+	font-size: 64px;
+	font-family: Sanserif;
+}
+
+.resumeHeader{
+	font-size: 48px;
+	font-family: verdana;
+	font-style: italic;
+	background-color: whitesmoke;
+	padding: 10px;
+}
+
+.sectionTitle{
+	font-size: 40px;
+	font-family: verdana;
+}
+
+.sectionText{
+	font-size: 28px;
+}
+
+.sectionText2{
+	font-family: Times New Roman;
+	font-size:22px;
+	width:auto;
+}
+
+hr{
+	display: block;
+	-webkit-margin-before: 0.0em;
+	-webkit-margin-after: 0.0em;
+	-webkit-margin-start: auto;
+	-webkit-margin-end: auto;
+	border-style: inset;
+	border-width: 2px;
+}
+
+ul {
+display: block;
+list-style-type: disc;
+-webkit-margin-before: 0em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+-webkit-padding-start: 40px;
+}
